@@ -11,7 +11,9 @@
 - [x] Vue - Directive: v-model
 - [x] Vue - directive: v-if / v-show
 - [x] Vue - directive: v-for
-- [ ] Vue - class & style binding
-- [ ] Vue - ES6 syntax 4 things
-- [ ] Vue - watch & computed
+- [x] Vue - class & style binding
+- [x] Vue - ES6 syntax 4 things
+- [x] Vue - watch & computed
+
+- [ ] Vue - building Rock & Paper & Scissors mini game
 
