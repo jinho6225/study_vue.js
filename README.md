@@ -8,9 +8,9 @@
 - [x] Vue - Directive: v-on
 - [x] Vue - input javascript code into HTML directly
 - [x] Vue - computed, computed vs methods
-- [ ] Vue - Directive: v-model
-- [ ] Vue - directive: v-if
-- [ ] Vue - directive: v-for
+- [x] Vue - Directive: v-model
+- [x] Vue - directive: v-if / v-show
+- [x] Vue - directive: v-for
 - [ ] Vue - class & style binding
 - [ ] Vue - ES6 syntax 4 things
 - [ ] Vue - watch & computed
