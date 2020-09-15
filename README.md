@@ -15,5 +15,5 @@
 - [x] Vue - ES6 syntax 4 things
 - [x] Vue - watch & computed
 
-- [ ] Vue - building Rock & Paper & Scissors mini game
+- [x] Vue - building Rock & Paper & Scissors mini game
 
