@@ -16,4 +16,8 @@
 - [x] Vue - watch & computed
 
 - [x] Vue - building Rock & Paper & Scissors mini game
-
+- [x] Vue - Multiple Instance
+- [x] Vue - Intro to Components
+- [x] Vue - VueJS Life Cycle
+- [x] Vue - Vue, why data must be a function
+- [x] Vue - Vue CLI3 

@@ -76,6 +76,7 @@ new Vue({
     methods: {
         startGame: function() {
             if (!this.choice) {
+                this.isSelectable = true
                 alert('please select rock or paper or scissor')
             } else {
                 this.isSelectable = false
