@@ -21,3 +21,4 @@
 - [x] Vue - VueJS Life Cycle
 - [x] Vue - Vue, why data must be a function
 - [x] Vue - Vue CLI3 
+- [x] Vue - $emit
