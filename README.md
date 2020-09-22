@@ -20,5 +20,8 @@
 - [x] Vue - Intro to Components
 - [x] Vue - VueJS Life Cycle
 - [x] Vue - Vue, why data must be a function
+
 - [x] Vue - Vue CLI3 
-- [x] Vue - $emit
+- [x] Vue - $emit, $eventBus.emit, $eventBus.on
+
+- [x] Vue - Vue CLI Todo List / $emit, $on, $eventBus.emit, $eventBus.on
