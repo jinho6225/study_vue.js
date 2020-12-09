@@ -24,4 +24,4 @@
 - [x] Vue - Vue CLI3 
 - [x] Vue - $emit, $eventBus.emit, $eventBus.on
 
-- [] Vue - Vue CLI Todo List / $emit, $on, $eventBus.emit, $eventBus.on
+- [x] Vue - Vue CLI Todo List / $emit, $on, $eventBus.emit, $eventBus.on
