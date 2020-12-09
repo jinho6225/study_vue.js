@@ -1,19 +1,20 @@
+// App.vue
+
 <template>
-  <div>
-    <h1>{{ title }}</h1>
-    <p>{{count}}</p>
-    <button @click="count++">add + 1</button>
-    <HomeComponent></HomeComponent>
-    <AppStatus></AppStatus>
+  <div id="app">
+    <nav>
+        <router-link to='/'>Home</router-link>
+        <router-link to='/register'>Register</router-link>
+        <router-link to='/login'>Login</router-link>
+    </nav>
+    <router-view />
   </div>
 </template>
 
 <script>
-  import HomeComponent from './Home'
 
   export default {
     components: {
-      HomeComponent
     },
     data() {
       return {

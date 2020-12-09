@@ -1,9 +1,8 @@
-// About.vue
+// Register.vue
 
 <template>
     <div>
-        About
-
+        Register
     </div>
 </template>
 <script>
